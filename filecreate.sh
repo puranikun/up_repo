@@ -1,5 +1,5 @@
 
-sleep 200
+sleep 10
 
 echo "Script Started"
 
